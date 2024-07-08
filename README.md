@@ -1,7 +1,7 @@
 <h2>SOC Automation Project Part 1</h2>
 
 <h3>Objectives</h3>
-- ...
+- Create a Logical Diagram 
 <br />
 <br />
 
